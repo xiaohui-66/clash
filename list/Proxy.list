@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX,51cg.fun
 DOMAIN-SUFFIX,openwrt.ai
 DOMAIN-SUFFIX,downloads.immortalwrt.org
-
+DOMAIN-SUFFIX,dl.photonicat.com
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
